@@ -1,0 +1,6 @@
+path: /home/youcef-sellai/vision_guided_drone_ws/src/drone_detection/drone_detection
+train: train/images
+val: train/images
+
+nc: 1
+names: ['Drone']

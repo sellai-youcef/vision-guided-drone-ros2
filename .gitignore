@@ -4,3 +4,6 @@ log/
 *.pyc
 __pycache__/
 *.egg-info/
+src/drone_detection/drone_detection/runs/
+src/drone_detection/drone_detection/train/
+src/drone_detection/drone_detection/*.zip
