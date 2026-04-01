@@ -7,3 +7,7 @@ __pycache__/
 src/drone_detection/drone_detection/runs/
 src/drone_detection/drone_detection/train/
 src/drone_detection/drone_detection/*.zip
+src/drone_detection/drone_detection/yolo11m.pt
+*.pt
+src/drone_detection/drone_detection/yolo11m.pt
+*.pt

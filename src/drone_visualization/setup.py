@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'visualization_node = drone_visualization.visualization_node:main',
         ],
     },
 )

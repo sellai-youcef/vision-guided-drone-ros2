@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'detection_node = drone_detection.detection_node:main',
         ],
     },
 )
